@@ -77,4 +77,4 @@ Uygulama içerisinde öğrencilerden yalnızca bir yanıt seçmeleri değil, se�
 
 Bu yönüyle proje; yapay zekâ okuryazarlığı, bilgi okuryazarlığı, eleştirel düşünme ve kanıta dayalı değerlendirme becerileriyle ilişkilidir.
 
-https://youtu.be/sma7naP8oN4?si=rFwr4yfJcpTj4-dj
+
